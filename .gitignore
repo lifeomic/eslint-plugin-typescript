@@ -1,0 +1,11 @@
+/deploy/node_modules/
+node_modules/
+yarn-error.log
+/.yarnclean
+/target/
+**/coverage/**
+/work/
+.npmrc
+.idea
+.iml
+.vscode/
