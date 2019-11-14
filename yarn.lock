@@ -1396,6 +1396,11 @@ eslint-plugin-react@^7.16.0:
     prop-types "^15.7.2"
     resolve "^1.12.0"
 
+eslint-plugin-self@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-self/-/eslint-plugin-self-1.2.0.tgz#b999cfed88b893afa6b1f7ce7037d208ede9b8ba"
+  integrity sha512-veuI/YC7DHJI4/rPlYxnZpszW7aSjwWj2/zZQ4UCWJE+tDgF853jJlz5UhPd/ckLYaMJXewZdKx6nSpWC2Ncqw==
+
 eslint-scope@^5.0.0:
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-5.0.0.tgz#e87c8887c73e8d1ec84f1ca591645c358bfc8fb9"

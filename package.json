@@ -9,7 +9,9 @@
   ],
   "author": "Xander Dumaine",
   "main": "lib/index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "yarn eslint -c .eslintrc.js ."
+  },
   "dependencies": {
     "@lifeomic/typescript-tools": "^7.0.0",
     "@typescript-eslint/eslint-plugin": "^2.7.0",
@@ -22,7 +24,9 @@
     "requireindex": "~1.1.0",
     "typescript": "^3.7.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-plugin-self": "^1.2.0"
+  },
   "engines": {
     "node": ">=0.10.0"
   },
